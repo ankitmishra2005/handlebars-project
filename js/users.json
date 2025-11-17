@@ -1,0 +1,25 @@
+[
+  { "name": "Ankit Mishra",
+    "role": "admin",
+    "email": "ankit@kes.com"
+  },
+  { "name": "Palak Zala",
+    "email": "palak@kes.com",
+    "role": "admin" 
+  },
+  { "name": "Rahul Singh",
+    "role": "user",
+    "email": "rahul@kes.com"
+  },
+  { "name": "Khush Golechha",
+    "role": "moderator",
+    "email": "khush@kes.com"
+  },
+  { "name": "Rohit Sharma", 
+    "email": "rohit@kes.com", 
+    "role": "user" 
+  },
+  { "name": "Aman Yadav", 
+    "email": "aman@kes.com", 
+    "role": "user" }
+]
